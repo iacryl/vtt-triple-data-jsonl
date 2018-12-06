@@ -1,0 +1,361 @@
+{
+	"type": "relation",
+	"class": "isPartOf",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "Let me get you some coffee.",
+	"seconds": 136.0,
+	"source": {
+		"id": "object_azacualpa"
+	}
+}{
+	"type": "relation",
+	"class": "location",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "Let me get you some coffee.",
+	"seconds": 136.0,
+	"source": {
+		"id": "object_lavazza"
+	}
+}{
+	"type": "relation",
+	"class": "isPartOf",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "Let me get you some coffee.",
+	"seconds": 137.0,
+	"source": {
+		"id": "object_azacualpa"
+	}
+}{
+	"type": "relation",
+	"class": "location",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "Let me get you some coffee.",
+	"seconds": 137.0,
+	"source": {
+		"id": "object_lavazza"
+	}
+}{
+	"type": "relation",
+	"class": "isPartOf",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "Can I get you some coffee?",
+	"seconds": 224.0,
+	"source": {
+		"id": "object_azacualpa"
+	}
+}{
+	"type": "relation",
+	"class": "location",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "Can I get you some coffee?",
+	"seconds": 224.0,
+	"source": {
+		"id": "object_lavazza"
+	}
+}{
+	"type": "relation",
+	"class": "isPartOf",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "Can I get you some coffee?",
+	"seconds": 225.0,
+	"source": {
+		"id": "object_azacualpa"
+	}
+}{
+	"type": "relation",
+	"class": "location",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "Can I get you some coffee?",
+	"seconds": 225.0,
+	"source": {
+		"id": "object_lavazza"
+	}
+}{
+	"type": "relation",
+	"class": "isPartOf",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I mean, I have never made coffee before in my life.",
+	"seconds": 857.0,
+	"source": {
+		"id": "object_azacualpa"
+	}
+}{
+	"type": "relation",
+	"class": "location",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I mean, I have never made coffee before in my life.",
+	"seconds": 857.0,
+	"source": {
+		"id": "object_lavazza"
+	}
+}{
+	"type": "relation",
+	"class": "isPartOf",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I mean, I have never made coffee before in my life.",
+	"seconds": 858.0,
+	"source": {
+		"id": "object_azacualpa"
+	}
+}{
+	"type": "relation",
+	"class": "location",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I mean, I have never made coffee before in my life.",
+	"seconds": 858.0,
+	"source": {
+		"id": "object_lavazza"
+	}
+}{
+	"type": "relation",
+	"class": "isPartOf",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I mean, I have never made coffee before in my life.",
+	"seconds": 859.0,
+	"source": {
+		"id": "object_azacualpa"
+	}
+}{
+	"type": "relation",
+	"class": "location",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I mean, I have never made coffee before in my life.",
+	"seconds": 859.0,
+	"source": {
+		"id": "object_lavazza"
+	}
+}{
+	"type": "relation",
+	"class": "isPartOf",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I mean, I have never made coffee before in my life.",
+	"seconds": 860.0,
+	"source": {
+		"id": "object_azacualpa"
+	}
+}{
+	"type": "relation",
+	"class": "location",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I mean, I have never made coffee before in my life.",
+	"seconds": 860.0,
+	"source": {
+		"id": "object_lavazza"
+	}
+}{
+	"type": "relation",
+	"class": "isPartOf",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "Would anybody like more coffee?",
+	"seconds": 1342.0,
+	"source": {
+		"id": "object_azacualpa"
+	}
+}{
+	"type": "relation",
+	"class": "location",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "Would anybody like more coffee?",
+	"seconds": 1342.0,
+	"source": {
+		"id": "object_lavazza"
+	}
+}{
+	"type": "relation",
+	"class": "isPartOf",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "Would anybody like more coffee?",
+	"seconds": 1343.0,
+	"source": {
+		"id": "object_azacualpa"
+	}
+}{
+	"type": "relation",
+	"class": "location",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "Would anybody like more coffee?",
+	"seconds": 1343.0,
+	"source": {
+		"id": "object_lavazza"
+	}
+}{
+	"type": "relation",
+	"class": "isPartOf",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "Would anybody like more coffee?",
+	"seconds": 1344.0,
+	"source": {
+		"id": "object_azacualpa"
+	}
+}{
+	"type": "relation",
+	"class": "location",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "Would anybody like more coffee?",
+	"seconds": 1344.0,
+	"source": {
+		"id": "object_lavazza"
+	}
+}{
+	"type": "relation",
+	"class": "isPartOf",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I'm just serving it. coffee.",
+	"seconds": 1349.0,
+	"source": {
+		"id": "object_azacualpa"
+	}
+}{
+	"type": "relation",
+	"class": "location",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I'm just serving it. coffee.",
+	"seconds": 1349.0,
+	"source": {
+		"id": "object_lavazza"
+	}
+}{
+	"type": "relation",
+	"class": "isPartOf",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I'm just serving it. coffee.",
+	"seconds": 1350.0,
+	"source": {
+		"id": "object_azacualpa"
+	}
+}{
+	"type": "relation",
+	"class": "location",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I'm just serving it. coffee.",
+	"seconds": 1350.0,
+	"source": {
+		"id": "object_lavazza"
+	}
+}{
+	"type": "relation",
+	"class": "isPartOf",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I'll have a cup of coffee.",
+	"seconds": 1350.0,
+	"source": {
+		"id": "object_azacualpa"
+	}
+}{
+	"type": "relation",
+	"class": "location",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I'll have a cup of coffee.",
+	"seconds": 1350.0,
+	"source": {
+		"id": "object_lavazza"
+	}
+}{
+	"type": "relation",
+	"class": "isPartOf",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I'll have a cup of coffee.",
+	"seconds": 1351.0,
+	"source": {
+		"id": "object_azacualpa"
+	}
+}{
+	"type": "relation",
+	"class": "location",
+	"subclass": "is",
+	"target": {
+		"id": "object_coffee"
+	},
+	"script": "I'll have a cup of coffee.",
+	"seconds": 1351.0,
+	"source": {
+		"id": "object_lavazza"
+	}
+}

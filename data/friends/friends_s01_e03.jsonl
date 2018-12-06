@@ -1,0 +1,109 @@
+{
+	"type": "relation",
+	"source": {
+		"id": "object_connecticut"
+	},
+	"script": "The Milner's farm in Connecticut?",
+	"subclass": "is",
+	"class": "capital",
+	"seconds": 66.0,
+	"target": {
+		"id": "object_hartford_connecticut"
+	}
+}{
+	"type": "relation",
+	"source": {
+		"id": "object_harkness_tower"
+	},
+	"script": "The Milner's farm in Connecticut?",
+	"subclass": "is",
+	"class": "location",
+	"seconds": 66.0,
+	"target": {
+		"id": "object_conneticut"
+	}
+}{
+	"type": "relation",
+	"source": {
+		"id": "object_downtown_new_haven"
+	},
+	"script": "The Milner's farm in Connecticut?",
+	"subclass": "is located",
+	"class": "isPartOf",
+	"seconds": 66.0,
+	"target": {
+		"id": "object_connecticut"
+	}
+}{
+	"type": "relation",
+	"source": {
+		"id": "object_connecticut"
+	},
+	"script": "The Milner's farm in Connecticut?",
+	"subclass": "is",
+	"class": "capital",
+	"seconds": 67.0,
+	"target": {
+		"id": "object_hartford_connecticut"
+	}
+}{
+	"type": "relation",
+	"source": {
+		"id": "object_harkness_tower"
+	},
+	"script": "The Milner's farm in Connecticut?",
+	"subclass": "is",
+	"class": "location",
+	"seconds": 67.0,
+	"target": {
+		"id": "object_conneticut"
+	}
+}{
+	"type": "relation",
+	"source": {
+		"id": "object_downtown_new_haven"
+	},
+	"script": "The Milner's farm in Connecticut?",
+	"subclass": "is located",
+	"class": "isPartOf",
+	"seconds": 67.0,
+	"target": {
+		"id": "object_connecticut"
+	}
+}{
+	"type": "relation",
+	"source": {
+		"id": "object_connecticut"
+	},
+	"script": "The Milner's farm in Connecticut?",
+	"subclass": "is",
+	"class": "capital",
+	"seconds": 68.0,
+	"target": {
+		"id": "object_hartford_connecticut"
+	}
+}{
+	"type": "relation",
+	"source": {
+		"id": "object_harkness_tower"
+	},
+	"script": "The Milner's farm in Connecticut?",
+	"subclass": "is",
+	"class": "location",
+	"seconds": 68.0,
+	"target": {
+		"id": "object_conneticut"
+	}
+}{
+	"type": "relation",
+	"source": {
+		"id": "object_downtown_new_haven"
+	},
+	"script": "The Milner's farm in Connecticut?",
+	"subclass": "is located",
+	"class": "isPartOf",
+	"seconds": 68.0,
+	"target": {
+		"id": "object_connecticut"
+	}
+}

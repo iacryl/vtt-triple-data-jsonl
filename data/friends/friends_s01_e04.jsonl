@@ -1,0 +1,169 @@
+{
+	"subclass": "was an advisor",
+	"class": "party",
+	"type": "relation",
+	"seconds": 869.0,
+	"script": "Wait, you're not G. Stephanopoulos?",
+	"source": {
+		"id": "person_george_stephanopoulos"
+	},
+	"target": {
+		"id": "object_democratic_party_united_states"
+	}
+}{
+	"subclass": "was an advisor",
+	"class": "party",
+	"type": "relation",
+	"seconds": 870.0,
+	"script": "Wait, you're not G. Stephanopoulos?",
+	"source": {
+		"id": "person_george_stephanopoulos"
+	},
+	"target": {
+		"id": "object_democratic_party_united_states"
+	}
+}{
+	"subclass": "was an advisor",
+	"class": "party",
+	"type": "relation",
+	"seconds": 871.0,
+	"script": "Wait, you're not G. Stephanopoulos?",
+	"source": {
+		"id": "person_george_stephanopoulos"
+	},
+	"target": {
+		"id": "object_democratic_party_united_states"
+	}
+}{
+	"subclass": "was an advisor",
+	"class": "party",
+	"type": "relation",
+	"seconds": 875.0,
+	"script": "Did you say G. Stephanopoulos?",
+	"source": {
+		"id": "person_george_stephanopoulos"
+	},
+	"target": {
+		"id": "object_democratic_party_united_states"
+	}
+}{
+	"subclass": "was an advisor",
+	"class": "party",
+	"type": "relation",
+	"seconds": 876.0,
+	"script": "Did you say G. Stephanopoulos?",
+	"source": {
+		"id": "person_george_stephanopoulos"
+	},
+	"target": {
+		"id": "object_democratic_party_united_states"
+	}
+}{
+	"subclass": "was an advisor",
+	"class": "party",
+	"type": "relation",
+	"seconds": 877.0,
+	"script": "Did you say G. Stephanopoulos?",
+	"source": {
+		"id": "person_george_stephanopoulos"
+	},
+	"target": {
+		"id": "object_democratic_party_united_states"
+	}
+}{
+	"subclass": "was an advisor",
+	"class": "party",
+	"type": "relation",
+	"seconds": 878.0,
+	"script": "Did you say G. Stephanopoulos?",
+	"source": {
+		"id": "person_george_stephanopoulos"
+	},
+	"target": {
+		"id": "object_democratic_party_united_states"
+	}
+}{
+	"subclass": "was an advisor",
+	"class": "party",
+	"type": "relation",
+	"seconds": 904.0,
+	"script": "We've got George Stephanopoulos' pizza.",
+	"source": {
+		"id": "person_george_stephanopoulos"
+	},
+	"target": {
+		"id": "object_democratic_party_united_states"
+	}
+}{
+	"subclass": "was an advisor",
+	"class": "party",
+	"type": "relation",
+	"seconds": 905.0,
+	"script": "We've got George Stephanopoulos' pizza.",
+	"source": {
+		"id": "person_george_stephanopoulos"
+	},
+	"target": {
+		"id": "object_democratic_party_united_states"
+	}
+}{
+	"subclass": "was an advisor",
+	"class": "party",
+	"type": "relation",
+	"seconds": 906.0,
+	"script": "We've got George Stephanopoulos' pizza.",
+	"source": {
+		"id": "person_george_stephanopoulos"
+	},
+	"target": {
+		"id": "object_democratic_party_united_states"
+	}
+}{
+	"subclass": "developed in",
+	"class": "region",
+	"type": "relation",
+	"seconds": 922.0,
+	"script": "I see pizza.",
+	"source": {
+		"id": "object_chicago_style_pizza"
+	},
+	"target": {
+		"id": "object_chicago"
+	}
+}{
+	"subclass": "developed in",
+	"class": "region",
+	"type": "relation",
+	"seconds": 923.0,
+	"script": "I see pizza.",
+	"source": {
+		"id": "object_detroit_style_pizza"
+	},
+	"target": {
+		"id": "object_michigan"
+	}
+}{
+	"subclass": "developed in",
+	"class": "region",
+	"type": "relation",
+	"seconds": 953.0,
+	"script": "She's going for the pizza.",
+	"source": {
+		"id": "object_chicago_style_pizza"
+	},
+	"target": {
+		"id": "object_chicago"
+	}
+}{
+	"subclass": "developed in",
+	"class": "region",
+	"type": "relation",
+	"seconds": 954.0,
+	"script": "She's going for the pizza.",
+	"source": {
+		"id": "object_detroit_style_pizza"
+	},
+	"target": {
+		"id": "object_michigan"
+	}
+}

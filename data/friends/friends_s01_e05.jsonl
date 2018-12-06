@@ -1,0 +1,97 @@
+{
+	"class": "country",
+	"target": {
+		"id": "object_cuba"
+	},
+	"seconds": 555.0,
+	"type": "relation",
+	"source": {
+		"id": "object_cuban_espresso"
+	},
+	"script": "Can I get an espresso and a latte over here, please?",
+	"subclass": "is a type of"
+}{
+	"class": "country",
+	"target": {
+		"id": "object_cuba"
+	},
+	"seconds": 556.0,
+	"type": "relation",
+	"source": {
+		"id": "object_cuban_espresso"
+	},
+	"script": "Can I get an espresso and a latte over here, please?",
+	"subclass": "is a type of"
+}{
+	"class": "country",
+	"target": {
+		"id": "object_cuba"
+	},
+	"seconds": 557.0,
+	"type": "relation",
+	"source": {
+		"id": "object_cuban_espresso"
+	},
+	"script": "Can I get an espresso and a latte over here, please?",
+	"subclass": "is a type of"
+}{
+	"class": "country",
+	"target": {
+		"id": "object_cuba"
+	},
+	"seconds": 558.0,
+	"type": "relation",
+	"source": {
+		"id": "object_cuban_espresso"
+	},
+	"script": "Can I get an espresso and a latte over here, please?",
+	"subclass": "is a type of"
+}{
+	"class": "country",
+	"target": {
+		"id": "object_cuba"
+	},
+	"seconds": 604.0,
+	"type": "relation",
+	"source": {
+		"id": "object_cuban_espresso"
+	},
+	"script": "I'm gonna get another espresso. More latte?",
+	"subclass": "is a type of"
+}{
+	"class": "country",
+	"target": {
+		"id": "object_cuba"
+	},
+	"seconds": 605.0,
+	"type": "relation",
+	"source": {
+		"id": "object_cuban_espresso"
+	},
+	"script": "I'm gonna get another espresso. More latte?",
+	"subclass": "is a type of"
+}{
+	"class": "country",
+	"target": {
+		"id": "object_cuba"
+	},
+	"seconds": 606.0,
+	"type": "relation",
+	"source": {
+		"id": "object_cuban_espresso"
+	},
+	"script": "I'm gonna get another espresso. More latte?",
+	"subclass": "is a type of"
+}{
+	"class": "country",
+	"target": {
+		"id": "object_cuba"
+	},
+	"seconds": 607.0,
+	"type": "relation",
+	"source": {
+		"id": "object_cuban_espresso"
+	},
+	"script": "I'm gonna get another espresso. More latte?",
+	"subclass": "is a type of"
+}
